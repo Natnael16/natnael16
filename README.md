@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Natnael, a software engineer based in Addis Ababa, Ethiopia 🌍. I'm passionate about full-stack development, working with technologies like Django and JavaScript by day, and diving into Flutter projects by night. My journey has taken me through exciting roles @A2SV and @QuickSync, where I've honed my skills and worked on impactful projects. With an entrepreneurial mindset, I enjoy exploring new ideas and taking on diverse projects that push the boundaries of what's possible. Let's connect and build something amazing together! 🚀💻
+👋 Hi there! I'm Natnael, a software engineer, passionate about full-stack development, working with technologies like Django and JavaScript by day, and diving into Flutter, Next.js projects by night. My journey has taken me through exciting roles @A2SV and @QuickSync, where I've honed my skills and worked on impactful projects. With an entrepreneurial mindset, I enjoy exploring new ideas and taking on diverse projects that push the boundaries of what's possible. Let's connect and build something amazing together! 🚀💻
 
 
 ## 🌐 Socials:
