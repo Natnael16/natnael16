@@ -5,7 +5,9 @@
 I build software that businesses rely on daily: multi-platform SaaS, high-traffic API integrations, and AI-powered products using LLMs and RAG. I learned to code before the AI era, so I use AI as a tool to move faster, not as a crutch, the quality comes from understanding the craft underneath.
 
 🔭 Currently building AI-powered apps with RAG, document ingestion, and agentic LLM systems
+
 💬 Ask me about React, Next.js, Django, Node, Supabase, or AI integration
+
 📫 Reach me on [LinkedIn](https://linkedin.com/in/natnael-tadele-b3534b230)
 
 ---
