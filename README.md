@@ -10,6 +10,7 @@ I build software that businesses rely on daily: multi-platform SaaS, high-traffi
 
 📫 Reach me on [LinkedIn](https://linkedin.com/in/natnael-tadele-b3534b230)
 
+🌐 https://natnael.website
 ---
 
 ## 🚀 Selected Work
